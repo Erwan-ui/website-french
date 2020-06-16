@@ -13,6 +13,7 @@ a img:last-child {
 }
 a:hover img:last-child {
   display: block;  
+  width:100%;
 }
 a:hover img:first-child {
   display: none;  
